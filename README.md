@@ -80,7 +80,9 @@ Follow instructions.  You are not allowed to insert other methods except what is
 In your solution you must provide the following in your Github link account:
 Problem statement (description of the problem. Just copy what is stated here).
   UML Class Diagram
+  
   Uploaded java codes for the solution.
+  
 Upload your GitHub repository to the designated NEUVLE assignment link.
 
 
